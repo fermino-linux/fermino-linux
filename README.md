@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, My name is Marcus 
 
 <!--
 **mf-linux/mf-linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student and I'm in love with Linux, Virtualization, Automation, Containerization and Cloud.
+
+Languages: **Bash Scripts**, **Java**, **Python**
+Skills: **Red Hat Enterprise Linux**, **Ansible**, **Vagrant**, **Podman**, **KVM**, **VirtualBox** 
