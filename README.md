@@ -1,21 +1,11 @@
-### Hi, My name is Marcus 
+# Olá ! 
 
-<!--
-**mf-linux/mf-linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Eu sou estudante de Sistemas de Informação
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a student and I'm in love with Linux, Virtualization, Automation, Containerization and Cloud.
-
-Languages: **Bash Scripts**, **Java**, **Python**
-Skills: **Red Hat Enterprise Linux**, **Ansible**, **Vagrant**, **Podman**, **KVM**, **VirtualBox** 
+### Atualmente
+- Procurando o primeiro emprego na área.
+- Cursando o último semestre do curso
+- Aprendendo: Scripts Bash, Python, Docker e Kubernetes.
+### SOBRE
+- Habilidades: Red Hat Enterprise Linux, Vagrant, Ansible, KVM e Podman
+- Fale comigo sobre: Red Hat Enterprise Linux, Virtualização, Containerização, Automação e Software Livre
