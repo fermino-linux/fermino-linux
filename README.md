@@ -4,7 +4,7 @@
 
 ### Atualmente
 - Procurando o primeiro emprego na área.
-- Aprendendo: Scripts Bash, Python, Docker e Kubernetes.
+- Estudando: RHEL, Docker, Kubernetes, Prometheus e  Grafana.
 ### Sobre
 - Habilidades: Red Hat Enterprise Linux, Vagrant, Ansible, KVM e Podman
 - Fale comigo sobre: Red Hat Enterprise Linux, Virtualização, Containerização, Automação e Software Livre
