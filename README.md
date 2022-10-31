@@ -1,10 +1,9 @@
 # Olá ! 
 
-### Eu sou estudante de Sistemas de Informação
+### Eu sou estudante
 
 ### Atualmente
 - Procurando o primeiro emprego na área.
-- Estudando: RHEL, Docker, Kubernetes, Prometheus e  Grafana.
-### Sobre
-- Habilidades: Red Hat Enterprise Linux, Vagrant, Ansible, KVM e Podman
-- Fale comigo sobre: Red Hat Enterprise Linux, Virtualização, Containerização, Automação e Software Livre
+- Estudando Atualmente: Docker Swarm, Prometheus e Grafana
+- Pretendo estudar: Kubernetes, Jenkins, Terraform e AWS
+- Conheço / Tenho experiência: Red Hat Enterprise Linux, Ansible e Vagrant
