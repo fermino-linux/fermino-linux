@@ -7,4 +7,4 @@
 - Procurando o primeiro emprego na área.
 - Estudando Atualmente: Docker Swarm, Prometheus e Grafana, Jenkins
 - Pretendo estudar: Terraform, AWS, Kubernetes e Podman
-- Conheço / Tenho experiência: Red Hat Enterprise Linux, Ansible e Vagrant
+- Conheço / Tenho experiência: Red Hat Enterprise Linux, Docker/Docker Compose, Ansible e Vagrant
