@@ -5,6 +5,6 @@
 ### Atualmente
 - Utilizo o [Almalinux](https://github.com/almalinux) na infraestrutura local
 - Procurando o primeiro emprego na área.
-- Estudando Atualmente: Docker Swarm, Prometheus e Grafana
-- Pretendo estudar: Kubernetes, Jenkins, Terraform e AWS
+- Estudando Atualmente: Docker Swarm, Prometheus e Grafana, Jenkins
+- Pretendo estudar: Terraform, AWS, Kubernetes e Podman
 - Conheço / Tenho experiência: Red Hat Enterprise Linux, Ansible e Vagrant
