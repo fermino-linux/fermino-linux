@@ -6,7 +6,7 @@ Caso queira me conhecer melhor:
  - apaixonado por sistemas GNU/Linux e usuário do [AlmaLinux](https://github.com/almalinux)
  - tenho experiência com Docker, Docker Swarm, Ansible e Vagrant
  - estou estudando Prometheus atualmente
- - pretendo estudar Terraform, Jenkins, Kubernetes.
+ - pretendo estudar Terraform, Jenkins e Kubernetes.
  - preciso me aprofundar em AWS e Python
 
 ### Sobre projetos
