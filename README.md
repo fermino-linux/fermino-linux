@@ -5,7 +5,7 @@ Caso queira me conhecer melhor:
  - recem formado em Sistemas de Informação
  - apaixonado por sistemas GNU/Linux e usuário do [AlmaLinux](https://github.com/almalinux)
  - tenho experiência com Docker, Docker Swarm, Ansible e Vagrant
- - estou studando Prometheus atualmente
+ - estou estudando Prometheus atualmente
  - pretendo estudar Terraform, Jenkins, Kubernetes.
  - preciso me aprofundar em AWS e Python
 
