@@ -8,6 +8,3 @@ Caso queira me conhecer melhor:
  - estou estudando Prometheus, Grafana e Kubernetes atualmente
  - pretendo estudar Terraform, Jenkins.
  - preciso me aprofundar em AWS e Python
-
-### Sobre projetos
-Aos poucos estou incluindo alguns projetos que tenho feito a partir de ideias que surgem ao exercitar as coisas que tenho estudado, espero que possam ser úteis a quem também estiver estudando coisas parecidas, eu utilizo Linux mais especificamente o [AlmaLinux](https://github.com/almalinux) ou o [Alpine](https://github.com/alpinelinux) como base para todos os meus projetos, então se você tentar implementar algo parecido com um dos meus projetos em um sistema diferente talvez seja preciso realizar algumas modificações, sinta-se a vontade para me contatar caso precise de ajuda.
