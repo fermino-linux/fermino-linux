@@ -4,7 +4,6 @@
 Caso queira me conhecer melhor:
  - Recem formado em Sistemas de Informação
  - Apaixonado por sistemas GNU/Linux e usuário das distribuições [ALOS](https://github.com/almalinux) e [Alpine](https://github.com/alpinelinux)
- - Procurando oportunidades como DevOps
  - Futuro Analista DevSecOps se tudo der certo.
 ### Minhas experiências:
   - Linux: RHEL/CentOS/ALOS/Rocky e Debian
